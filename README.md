@@ -1,2 +1,2 @@
-# haxe
-Pong (Haxe+OpenFL)
+# Pong (Haxe+OpenFL)
+
